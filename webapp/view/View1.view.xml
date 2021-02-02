@@ -5,6 +5,7 @@
 			<Page title="{i18n>title}">
 				<content>
 					<Text text="test"></Text>
+					<Button text="button"></Button>
 				</content>
 			</Page>
 		</pages>
